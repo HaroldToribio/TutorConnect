@@ -45,7 +45,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina:
 
 ## 🔑 Credenciales de Prueba (Demo)
 * **Admin User:** admin
-* **Password:** (Pon aquí la contraseña genérica si es segura, ej: Admin1234)
+* **Password:** Admin1234
 
 ## 📂 Estructura del Proyecto
 * `MiApp/`: Lógica principal de la aplicación.
