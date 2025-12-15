@@ -51,3 +51,11 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina:
 * `MiApp/`: Lógica principal de la aplicación.
 * `ProyectoFinal/`: Configuración global (settings, urls).
 * `templates/`: Archivos HTML.
+
+## 🚀 Características y Logros Técnicos
+
+Este sistema centraliza la información académica que antes se manejaba en papel y Excel dispersos, logrando una gestión eficiente de tutorías.
+
+- [cite_start]**Gestión de Datos Relacional:** Diseño de ERD optimizado en **PostgreSQL** para eliminar redundancia de datos de estudiantes y horarios[cite: 12, 15].
+- [cite_start]**Reporting Inteligente:** Sistema de consultas backend para visualizar disponibilidad de tutores en tiempo real[cite: 16].
+- **Seguridad:** Implementación de roles (Admin/User) y validación de datos para asegurar la integridad de la información.
